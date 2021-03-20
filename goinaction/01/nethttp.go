@@ -14,4 +14,5 @@ func main88() {
 }
 func Index(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprint(w, "alskd	 jflaksdj")
+	fmt.Fprint(w, "alskd	 jflaksdj")
 }
