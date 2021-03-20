@@ -14,7 +14,7 @@ func main33333(){
 		fmt.Print("ddd")
 		fallthrough
 	case x== "":
-		fmt.Print("   .....")
+		fmt.Print("   ....  .")
 		fallthrough
 	case x=="p":
 		fmt.Print("ppppppp")
