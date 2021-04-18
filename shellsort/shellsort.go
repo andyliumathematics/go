@@ -43,3 +43,7 @@ func shellSort3() {
 	fmt.Println(arr)
 
 }
+
+func TestHelloWorld(){
+	fmt.Println("adsfl");
+}
